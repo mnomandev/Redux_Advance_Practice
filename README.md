@@ -3,7 +3,7 @@
 This is a practice project for me to learn and get better understanding of the Redux Toolkit.
 
 ### `Images`
-
+![Screenshot 2024-07-06 181746](https://github.com/mnomandev/Redux_Advance_Practice/assets/117749981/8169f4cc-1908-4646-b9d3-144ffe47be25)
 
 ## Available Scripts
 
